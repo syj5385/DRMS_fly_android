@@ -1,0 +1,1942 @@
+[
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_button1.wav.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/button1.wav"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo2.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo2.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_bluetooth_cnt.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/bluetooth_cnt.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_upload_icon.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/upload_icon.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_main_background.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/main_background.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_quad_info.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/quad_info.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_drms_quadx.hex.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/drms_quadx.hex"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo0.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo0.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help5.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help5.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_controller.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/controller.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help1.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help1.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_drone_controller.hex.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/drone_controller.hex"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_plane.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/plane.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_drms_hex.hex.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/drms_hex.hex"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_upload.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_quad_press.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/quad_press.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help7.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help7.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrowup.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrowup.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_switch_thumb.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_background_vert.PNG.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/background_vert.PNG"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help11.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help11.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo4.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo4.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_power_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/power_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drone.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_quad_drone.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/quad_drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_bluetooth.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/bluetooth.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help13.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help13.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help12.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help12.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_timer_back.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/timer_back.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrow_up_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrow_up_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_plane_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/plane_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrow_right_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrow_right_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_hex_select.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/hex_select.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo6.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo6.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_power_off.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/power_off.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_bar_back_vert.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/bar_back_vert.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help3.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help3.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cont_back.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cont_back.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_throttle.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/throttle.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo7.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo7.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrowleft.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrowleft.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo1.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo1.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_hex_info.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/hex_info.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_hex_drone.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/hex_drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help4.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help4.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_tream_dialog_acc.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/tream_dialog_acc.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_media_cancel_action.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_basic_setting.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/basic_setting.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrow_left_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrow_left_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrow_botton_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrow_botton_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo3.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo3.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_button2.wav.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/button2.wav"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help2.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help2.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cont_back_hori.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cont_back_hori.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drcontrol_back.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drcontrol_back.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_drone_explain.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_drone_explain.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help10.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help10.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_center.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/center.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_logo5.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/logo5.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_hex_press.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/hex_press.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_device_address.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/device_address.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_quad_select.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/quad_select.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_single_mode.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/single_mode.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_fade.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drone_option.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drone_option.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help6.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help6.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_dr_background_vert.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/dr_background_vert.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_hold.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/anim/hold.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrowright.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrowright.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cont_upload_2.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cont_upload_2.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_dualjoystick.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_dualjoystick.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drone_dual1.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drone_dual1.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_singlejoystick.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_singlejoystick.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_bar_back.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/bar_back.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_dr_background.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/dr_background.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_tream_dialog.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/tream_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_controller.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_controller.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drone_dual2.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drone_dual2.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/raw_start.mp3.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/raw/start.mp3"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_battery_low.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/battery_low.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cali.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cali.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_upload_icon_non.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/upload_icon_non.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help8.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help8.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_drone_upload.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/drone_upload.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_switch_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/switch_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_arrowbottom.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/arrowbottom.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_drone_dialog.xml.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/layout/drone_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cali_on.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cali_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_help9.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/help9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_vbat.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/vbat.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_cont_upload_1.png.flat",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/src/main/res/drawable/cont_upload_1.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout-v11_notification_media_action.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_1/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/layout/abc_select_dialog_material.xml"
+    }
+]

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dialogColor"
+    android:padding="20dp"
+    tools:Context="com.drms.drms_drone.Drone_Controller.DualJoystick">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="20dp">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <ImageView
+                android:id="@+id/yaw_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="yaw_down_acc_Click"
+                app:srcCompat="@drawable/arrow_left_on" />
+
+
+            <TextView
+                android:id="@+id/yaw_tream"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+                android:gravity="center"
+                android:text="0"
+
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <ImageView
+                android:id="@+id/yaw_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="yaw_up_acc_Click"
+                app:srcCompat="@drawable/arrow_right_on" />
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/pitch_up"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="pitch_up_acc_Click"
+                    app:srcCompat="@drawable/arrow_up_on" />
+
+                <TextView
+                    android:id="@+id/pitch_tream"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="13dp"
+                    android:layout_marginTop="13dp"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+
+
+                <ImageView
+                    android:id="@+id/pitch_down"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="pitch_down_acc_Click"
+                    app:srcCompat="@drawable/arrow_botton_on" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingRight="20dp">
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="40dp"
+            android:paddingRight="10dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/roll_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="roll_down_acc_Click"
+                app:srcCompat="@drawable/arrow_left_on" />
+
+            <TextView
+                android:id="@+id/roll_tream"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+            <ImageView
+                android:id="@+id/roll_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="roll_up_acc_Click"
+                app:srcCompat="@drawable/arrow_right_on" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

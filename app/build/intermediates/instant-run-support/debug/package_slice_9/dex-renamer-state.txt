@@ -1,0 +1,4 @@
+#Wed Sep 06 15:03:07 KST 2017
+base.0=/Volumes/JJun(Mac)/DR Maker System/DR_Development/DRMSandroid/DRMS(drone)/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Volumes/JJun(Mac)/DR Maker System/DR_Development/DRMSandroid/DRMS(drone)/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

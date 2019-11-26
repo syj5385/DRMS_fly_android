@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.drms.drms_drone"
+    android:versionCode="110"
+    android:versionName="1.1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hex_drone"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hex_drone"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.drms.drms_drone.SplashActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.drms.drms_drone.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.drms.drms_drone.Communication.DeviceListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.drms.drms_drone.DroneExplainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.drms.drms_drone.Drone_Controller.ACCJoystick"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.drms.drms_drone.Drone_Controller.DualJoystick"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.drms.drms_drone.Drone_Controller.SingleJoystick"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.drms.drms_drone.Drone_Controller.Setting_Activity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.drms.drms_drone.Drone_Controller.UploadActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.drms.drms_drone.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

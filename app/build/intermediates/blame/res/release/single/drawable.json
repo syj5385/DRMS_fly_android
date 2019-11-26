@@ -1,0 +1,886 @@
+[
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\controller.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\controller.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plane_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\plane_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowright.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowright.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help4.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help4.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo4.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo4.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_drone.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\power_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\power_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dr_background.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\dr_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cali_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cali_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\power_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\power_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_option.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_option.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help10.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help10.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo2.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cali.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cali.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drcontrol_back.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drcontrol_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\single_mode.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\single_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_vert.PNG",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\background_vert.PNG"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_drone.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help12.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help12.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plane.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\plane.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help3.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help3.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help8.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help8.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_select.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_select.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo7.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo7.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\battery_low.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\battery_low.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plane_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\plane_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_left_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_left_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timer_back.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\timer_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_upload_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_upload_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help2.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_drone.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_info.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_info.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bar_back.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bar_back.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vbat.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\vbat.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\battery_low.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\battery_low.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_option.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_option.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\throttle.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\throttle.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_dual1.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_dual1.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_press.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_press.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\upload_icon_non.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\upload_icon_non.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_up_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help5.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help5.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo0.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo0.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help11.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help11.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\upload_icon_non.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\upload_icon_non.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help13.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help13.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo5.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo5.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_info.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_info.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_back_hori.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_back_hori.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vbat.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\vbat.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help1.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help1.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help6.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help6.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cali_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cali_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowleft.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowleft.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help10.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help10.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help7.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help7.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_botton_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_botton_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help4.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help4.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_back_hori.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_back_hori.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo3.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_drone.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\upload_icon.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\upload_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\plane.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\plane.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help3.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help3.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowbottom.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowbottom.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\upload_icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\upload_icon.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowbottom.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowbottom.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help2.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help2.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_upload_2.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_upload_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo5.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo5.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_select.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_select.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\switch_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo6.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo6.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowup.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowup.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\power_off.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\power_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_select.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_select.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo1.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\center.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\center.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help9.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_press.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_press.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo7.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo7.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help5.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help5.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bluetooth.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_back.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_back.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_info.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_info.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo4.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo4.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowleft.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowleft.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_botton_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_botton_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_background.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help9.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dr_background_vert.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\dr_background_vert.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help12.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help12.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\basic_setting.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\basic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help13.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help13.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_dual2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_dual2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\controller.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\controller.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_background.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help6.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help6.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo1.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_dual1.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_dual1.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_up_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowright.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowright.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\center.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\center.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrowup.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrowup.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_upload_1.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_upload_1.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bar_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bar_back.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_dual2.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_dual2.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\single_mode.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\single_mode.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help8.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help8.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo3.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_left_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_left_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_upload.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_upload.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\throttle.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\throttle.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bluetooth_cnt.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bluetooth_cnt.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_press.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_press.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bluetooth_cnt.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bluetooth_cnt.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bluetooth.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone_upload.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drone_upload.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help11.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help11.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_upload_1.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_upload_1.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bar_back_vert.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bar_back_vert.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cont_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cont_back.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_press.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_press.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drcontrol_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\drcontrol_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cali.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\cali.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_right_on.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\basic_setting.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\basic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_vert.PNG",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\background_vert.PNG"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo0.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo0.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo6.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\logo6.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help1.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help1.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hex_info.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\hex_info.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\power_off.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\power_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dr_background_vert.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\dr_background_vert.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help7.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\help7.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quad_select.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\quad_select.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timer_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\timer_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\e50b2839fe92ef97fe196736099e0a376a1c19ad\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dr_background.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\dr_background.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_on.png",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\drawable\\arrow_right_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bar_back_vert.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\drawable\\bar_back_vert.png"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\yeongjunsong\\.android\\build-cache\\7bf8bf17bbd75d05d0b32795bc574386219fafd6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    }
+]

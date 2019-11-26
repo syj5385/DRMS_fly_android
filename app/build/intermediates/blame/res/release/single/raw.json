@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drms_quadx.hex",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\drms_quadx.hex"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\button2.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\button2.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drone_controller.hex",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\drone_controller.hex"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drone_controller.hex",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\raw\\drone_controller.hex"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\start.mp3",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drms_quadx.hex",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\raw\\drms_quadx.hex"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\start.mp3",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
+        "merged": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drms_hex.hex",
+        "source": "C:\\Volumes\\JJun(Mac)\\DR Maker System\\DR_Development\\DRMSandroid\\DRMS(drone)\\app\\src\\main\\res\\raw\\drms_hex.hex"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\button1.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\button1.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\build\\intermediates\\res\\merged\\release\\raw\\drms_hex.hex",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\DRMS(drone)\\app\\src\\main\\res\\raw\\drms_hex.hex"
+    }
+]

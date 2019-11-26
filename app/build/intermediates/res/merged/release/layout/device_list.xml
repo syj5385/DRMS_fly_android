@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cont_back_hori">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <TextView android:id="@+id/title_paired_devices"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="Paired Device...."
+            android:background="#B5B5B6"
+            android:gravity="center"
+            android:textSize="30dp"
+            android:textColor="#201E1E"
+            android:paddingLeft="5dp"
+            />
+
+        <ListView android:id="@+id/paired_devices"
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:stackFromBottom="true"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <TextView android:id="@+id/title_new_devices"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Dicovered Devices..."
+            android:textSize="30dp"
+            android:background="#B5B5B6"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textColor="#201E1E"
+            android:paddingLeft="5dp"
+            />
+        <ListView android:id="@+id/new_devices"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp">
+
+            <Button android:id="@+id/button_scan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFBB00"
+                android:text="새로운 디바이스 검색하기..."
+                android:textSize="20dp"
+                android:textColor="#201E1E"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

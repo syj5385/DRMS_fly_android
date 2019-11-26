@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/cont_back">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DRS Drone 사용방법 안내"
+                android:textSize="25dp"
+                android:textColor="@color/roundtopic"
+                android:gravity="center"/>
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help1"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="DRS에 전원을 연결한 후, 스마트폰 블루투스 설정 화면에서 자신의 블루투스 모듈의 ID를 찾아 클릭합니다."/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help2"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="Password : 1234 (기본값)"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help3"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="페어링이 완료되면 페어링된 디바이스에 블루투스 모듈의 ID가 이동합니다."/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help9"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/drone_upload"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColor"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="15dp"
+                    android:padding="10dp"
+                    android:text="Drone 메뉴에서 업로드 버튼을 누르면 업로드를 할 수 있는 화면으로 이동합니다."/>
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help5"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="자신이 페어링한 디바이스를 선택하면 아래그림과 같이 블루투스 연결이 완료 됩니다."/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help6"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="블루투스 연결이 완료되면 가운데의 업로드 이미지가 초록색으로 되며, 업로드를 위해서는 업로드 이미지를 클릭하고,
+                                DRS 아두이노 위의 작은 버튼(Reset버튼)을 2초 이내에 한번 꾹 눌러줍니다."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ff0000"
+                android:textSize="12dp"
+                android:padding="10dp"
+                android:text="(DRS 아두이노 4개의 작은 LED중 RX의 LED가 점멸하면 정상적으로 업로드가 진행됨을 확인할 수 있습니다."/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help7"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="업로드가 완료되면 자동으로 업로드 화면을 종료함과 동시에 블루투스 연결이 해제 됩니다."/>
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help9"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/drone_option"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColor"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="15dp"
+                    android:padding="10dp"
+                    android:text="Drone 메뉴에서 옵션 버튼을 누르면 드론에 대한 설정을 할 수 있는 화면으로 이동합니다."/>
+
+
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help10"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/basic_setting"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColor"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="15dp"
+                    android:padding="10dp"
+                    android:text="설정 화면에서 블루투스를 연결하면 초기상태의 드론 setting값이 나타납니다.\n톱니바퀴 모양의 기본 세팅 아이콘을 클릭하면 DRS에서 제공하는 기본 모형에 대한 setting이 완료 됩니다."/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/roundtopic"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:text="Single Mode"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help11"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="한 손으로 스마트폰의 기울기 센서를 이용해 드론을 제어합니다."/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/roundtopic"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:text="Dual Mode1"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help12"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="두 손으로 시중에 있는 조종방식(mode1)으로 드론을 제어합니다."/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/roundtopic"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:text="Dual Mode2"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/help13"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="두 손으로 스마트폰을 들고 스마트폰의 기울기 센서를 이용하여 드론을 제어합니다.\n이 때, 오른쪽의 회색상자를 터치하고 있을 때만 기울기 센서가 활성화 됩니다."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColor"
+                android:layout_marginLeft="10dp"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:text="드론에 블루투스 연결을 하기 전에 드론을 수평한 곳에 두고 아두이노의 reset 버튼을 눌러줍니다.\n드론의 현재 수평상태를 측정하기 위함"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="30dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/bluetooth"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColor"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="15dp"
+                    android:padding="10dp"
+                    android:text="조종 화면에서 블루투스 연결 버튼을 클릭하여 자신의 블루투스 모듈과 연결을 합니다."/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="20dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/power_off"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/textColor"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="15dp"
+                    android:padding="10dp"
+                    android:text="블루투스가 연결되면 시동 버튼이 활성화 됩니다.\n 시동을 걸면 동작이 가능한 상태가 됩니다."/>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>

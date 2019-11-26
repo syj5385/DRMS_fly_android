@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dialogColor">#C0BFBE</color>
+    <color name="textColor">#D5D5D5</color>
+
+    <color name="topicColor">#73503C</color>
+    <color name="roundtopic">#FFBB00</color>
+</resources>
