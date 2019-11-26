@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.drms.drms_drone">
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <uses-feature android:name="android.hardware.usb.host"
+        android:required="true"/>
+
+
+
+    <application
+        android:name=".MultiData"
+        android:allowBackup="true"
+        android:icon="@mipmap/quad_drone"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/quad_drone_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Activity.MainActivity"
+            android:theme="@style/Theme.AppCompat.SplashTheme"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Activity.DroneMainActivity"
+            android:theme="@style/Theme.AppCompat.DroneMainTheme"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Activity.ProgrammingDroneActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.DroneMainTheme">
+
+        </activity>
+
+        <activity android:name=".Communication.ClassicBluetooth.DeviceListActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Controller.DroneController.JoystickActivity"
+            android:theme="@style/Theme.AppCompat.JoystickTheme"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Controller.DroneController.JoystickSettingActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Translucent2"></activity>
+
+        <activity android:name=".Controller.MultiSetting.DroneSettingActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.DroneMainTheme"
+            >
+        </activity>
+
+        <activity android:name=".Controller.DroneController.WaitActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Translucent2">
+
+        </activity>
+
+        <activity android:name=".Activity.CheckPermissionActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Upload.UploadSelectedActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.DroneMainTheme">
+
+        </activity>
+
+        <service android:name=".Service.BTService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <provider
+            android:authorities="${applicationId}.provider"
+            android:name="android.support.v4.content.FileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource ="@xml/provider_paths"/>
+
+        </provider>
+
+    </application>
+
+</manifest>

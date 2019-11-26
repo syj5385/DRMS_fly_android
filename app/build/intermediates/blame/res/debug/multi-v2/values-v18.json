@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

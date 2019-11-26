@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/move_disappear.xml",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/anim/move_disappear.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/appear.xml",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/anim/appear.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/move.xml",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/fade.xml",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/hold.xml",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/anim/hold.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/anim/abc_slide_in_top.xml"
+    }
+]

@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/character_round.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/character_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/location.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/location.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/button_scan.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/button_scan.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/app.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/app.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash5.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash5.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/quad_drone.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/quad_drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bluetooth.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bluetooth.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash3.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash3.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cali.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cali.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/storage.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/storage.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/etc.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/etc.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash4.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash4.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mydevice.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mydevice.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_right.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_right.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cali_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cali_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/nextbtn_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/nextbtn_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_left.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_left.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/lock_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/lock_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/quad_drone.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/quad_drone.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_up.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_up.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_right.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_right.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/nextbtn_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/nextbtn_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/pid.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/pid.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/plane_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/plane_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash2.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash2.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mobile.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mobile.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash5.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash5.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/plane_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/plane_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/web.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/web.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/storage.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/storage.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/throttle.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/throttle.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash_character.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash_character.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux4.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux4.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/box.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/box.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mobile.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mobile.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_up.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_up.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/rc_battery.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/rc_battery.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/right_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/right_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash2.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash2.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/upload_icon.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_left.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_left.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash1.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash1.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/up_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/up_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/quad_drone_round.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/quad_drone_round.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/up_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/up_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cafe.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cafe.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/location.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/location.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux4.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux4.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/down_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/down_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_down.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_down.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bt_setting.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bt_setting.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/lock.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/lock.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cali_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cali_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bluetooth.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bluetooth.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/character_round.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/character_round.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/controller.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/controller.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/quad_drone_round.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/quad_drone_round.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/etc.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/etc.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/nextbtn.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/nextbtn.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/web.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/web.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/left_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/left_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cancel.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cancel.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/down_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/down_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mydrone.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mydrone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/controller.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/controller.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/app.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/app.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_left_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_left_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/plane.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/plane.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_down.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_down.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cali.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cali.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/plane.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/plane.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/init_device.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/init_device.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/throttle.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/throttle.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/lock.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/lock.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/upload_icon.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/upload_icon.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/box.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/box.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/left_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/left_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/button_scan.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/button_scan.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux4_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux4_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/pid.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/pid.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash_character.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash_character.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/hex_drone.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/hex_drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bt_setting.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bt_setting.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/device_image.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/device_image.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mydrone.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mydrone.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cafe.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cafe.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/init_device.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/init_device.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bluetooth_cnt.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bluetooth_cnt.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/drawermenu.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/drawermenu.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/aux4_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/aux4_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/rc_battery.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/rc_battery.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/mydevice.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/mydevice.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_right_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_right_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/bluetooth_cnt.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/bluetooth_cnt.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/drawermenu.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/drawermenu.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_right_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_right_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash3.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash3.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/nextbtn.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/nextbtn.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/move_left_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/move_left_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cancel.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/cancel.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/device_image.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/device_image.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash1.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash1.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/hex_drone.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/hex_drone.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/lock_on.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/lock_on.png"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/right_on.png",
+        "source": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/right_on.png"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/splash4.png",
+        "source": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/res/mipmap-xhdpi/splash4.png"
+    }
+]

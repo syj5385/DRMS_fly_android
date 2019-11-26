@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

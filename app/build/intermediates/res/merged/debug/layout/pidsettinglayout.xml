@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="40dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text="P"
+                    android:minWidth="45dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:textColor="@color/mainBasicColor"/>
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text="I"
+                    android:minWidth="45dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:textColor="@color/mainBasicColor"/>
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text="D"
+                    android:minWidth="45dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:textColor="@color/mainBasicColor"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Roll"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/roll_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:gravity="center"
+                    android:maxWidth="45dp"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal"
+                    android:textColor="@color/mulSettingText"/>
+
+                <EditText
+                    android:id="@+id/roll_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/roll_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:imeOptions="flagNoExtractUi"
+                    android:text="0.0"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pitch"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/pitch_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/pitch_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/pitch_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:gravity="center"
+                    android:text="0.0"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:textColor="@color/mulSettingText"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Yaw"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/yaw_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/yaw_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/yaw_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:text="0.0"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ALT"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/alt_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/alt_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/alt_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@color/mulSettingText"
+                    android:minWidth="45dp"
+                    android:text="0.0"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pos"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/pos_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:textColor="@color/mulSettingText"
+                    android:gravity="center"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/pos_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="PosR"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/posr_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/posr_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/posr_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:text="0.0"
+                    android:maxWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NavR"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/navr_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/navr_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:textColor="@color/mulSettingText"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/navr_d"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@color/mulSettingText"
+                    android:minWidth="45dp"
+                    android:text="0.0"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LEV"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/level_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:textColor="@color/mulSettingText"
+                    android:gravity="center"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:ems="10"
+                    android:inputType="number" />
+
+                <EditText
+                    android:id="@+id/level_i"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.0"
+                    android:minWidth="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:maxWidth="45dp"
+                    android:gravity="center"
+                    android:imeOptions="flagNoExtractUi"
+                    android:ems="10"
+                    android:inputType="numberDecimal" />
+
+                <EditText
+                    android:id="@+id/level_d"
+                    android:layout_width="45dp"
+                    android:textColor="@color/mulSettingText"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:minWidth="45dp"
+                    android:text="0.0"
+                    android:maxWidth="45dp"
+                    android:ems="10"
+                    android:inputType="number" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="MAG"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingContent"
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <EditText
+                    android:id="@+id/mag_p"
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:imeOptions="flagNoExtractUi"
+                    android:gravity="center"
+                    android:textColor="@color/mulSettingText"
+                    android:minWidth="45dp"
+                    android:maxWidth="45dp"
+                    android:text="0.0"
+                    android:ems="10"
+                    android:inputType="number" />
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_weight="1"
+                    android:minWidth="45dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

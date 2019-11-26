@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1dbbac6894c30f41966d059092ddbf27/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 17 12:27:26 KST 2019
+0.baseType=DIRECTORY
+0.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:89:9-99:20
+	android:grantUriPermissions
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:93:13-47
+	android:authorities
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:90:13-60
+	android:exported
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:91:13-67
+manifest
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/007f10c58733a9536a5f967f4de21d0d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:17:1-31:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:1-103:12
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:11:22-63
+uses-feature#android.hardware.usb.host
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:13:5-14:34
+	android:required
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:13:19-59
+application
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:18:5-101:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/007f10c58733a9536a5f967f4de21d0d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/007f10c58733a9536a5f967f4de21d0d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:23:9-53
+	android:icon
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:21:9-42
+	android:allowBackup
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:19:9-34
+activity#com.drms.drms_drone.Activity.MainActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:29:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:27:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.drms.drms_drone.Activity.DroneMainActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:39:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:37:19-61
+activity#com.drms.drms_drone.Activity.ProgrammingDroneActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:44:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:45:13-66
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:43:19-68
+activity#com.drms.drms_drone.Communication.ClassicBluetooth.DeviceListActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:49:9-52:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:50:13-50
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:49:19-84
+activity#com.drms.drms_drone.Controller.DroneController.JoystickActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:54:9-56:62
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:56:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:55:13-65
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:54:19-78
+activity#com.drms.drms_drone.Controller.DroneController.JoystickSettingActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:58:9-60:76
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:59:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:60:13-64
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:58:19-85
+activity#com.drms.drms_drone.Controller.MultiSetting.DroneSettingActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:62:9-66:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:63:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:64:13-66
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:62:19-79
+activity#com.drms.drms_drone.Controller.DroneController.WaitActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:69:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:70:13-64
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:68:19-74
+activity#com.drms.drms_drone.Activity.CheckPermissionActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:74:9-77:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:75:13-50
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:74:19-67
+activity#com.drms.drms_drone.Upload.UploadSelectedActivity
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:80:13-50
+	android:theme
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:81:13-66
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:79:19-64
+service#com.drms.drms_drone.Service.BTService
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:85:9-87:40
+	android:enabled
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:86:13-35
+	android:exported
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:85:18-51
+uses-sdk
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/007f10c58733a9536a5f967f4de21d0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jjun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/007f10c58733a9536a5f967f4de21d0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:21:5-23:58
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:95:13-97:58
+	android:resource
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:97:17-56
+	android:name
+		ADDED from /Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_2/app/src/main/AndroidManifest.xml:96:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/b88792988438c09392bf886f58edb20f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/cd662e38a3112f387f6e0a5aab5a4b54/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/b6dcbea61f3d6501990026d89cf19a51/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/9a2f2f8afba8bb8869941f26268042d8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5fab84854a4717b0a6865ba49395ed8c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d47e38922486e2b578721a95a379da9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/256bdf9c2e612b7ce515acfbef84bbd7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/08055aea53056249517027d3fb631084/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/jjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6c5aa6d8e08fdd6f255e611f3c1af840/AndroidManifest.xml:26:9-47

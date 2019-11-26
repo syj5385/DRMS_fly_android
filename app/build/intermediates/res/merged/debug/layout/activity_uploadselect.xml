@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/DrawerColor">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/quad_info"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@color/DrawerColor"/>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/DrawerColor"
+            android:id="@+id/quad_contents"
+            android:padding="10dp">
+
+        </ListView>
+        
+    </LinearLayout>
+
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:padding="5dp"
+        android:background="@color/DrawerColor">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:background="@color/DrawerColor"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/hex_info"/>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/DrawerColor"
+            android:id="@+id/hex_contents"
+            android:padding="10dp">
+
+        </ListView>
+
+    </LinearLayout>
+    
+
+</LinearLayout>
