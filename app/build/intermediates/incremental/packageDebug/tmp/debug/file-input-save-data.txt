@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Sep 21 22:06:11 KST 2019
+1.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_3_usb/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_3_usb/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+1.path=classes.dex

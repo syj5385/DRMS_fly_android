@@ -1,0 +1,4 @@
+#Sat Sep 21 21:01:38 KST 2019
+base.0=/Volumes/YeongjunFile/외주 업무/DRMS 회사/Project/DRMS(fly)/Android/DRMS(fly)_3_usb/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

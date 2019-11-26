@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="7dp">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="RC Tuning / Battery"
+                    android:gravity="center"
+                    android:textSize="17dp"
+                    android:textColor="@color/mainBasicColor"
+                    android:background="@color/DrawerColor"/>
+
+                <android.support.v4.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="4dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="RC\nRate"
+                            android:minWidth="50dp"
+                            android:textSize="14dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/rc_rate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textSize="14dp"
+                            android:text="0.0"
+                            android:ems="10"
+                            android:textColor="@color/mulSettingText"
+                            android:gravity="center"
+                            android:imeOptions="flagNoExtractUi"
+                            android:inputType="numberDecimal" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="5dp"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Thr\nMid"
+                            android:minWidth="50dp"
+                            android:textSize="14dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/Thr_mid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:imeOptions="flagNoExtractUi"
+                            android:textColor="@color/mulSettingText"
+                            android:gravity="center"
+                            android:text="0.0"
+                            android:textSize="14dp"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+
+                    </LinearLayout>
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="RC\nExpo"
+                            android:minWidth="50dp"
+                            android:textSize="14dp"
+                            android:layout_weight="1"
+                            android:textColor="@color/mulSettingContent"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/rc_expo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@color/mulSettingText"
+                            android:gravity="center"
+                            android:imeOptions="flagNoExtractUi"
+                            android:textSize="14dp"
+                            android:text="0.0"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="5dp"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Thr\nExpo"
+                            android:minWidth="50dp"
+                            android:textSize="14dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/Thr_expo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:imeOptions="flagNoExtractUi"
+                            android:text="0.0"
+                            android:textColor="@color/mulSettingText"
+                            android:textSize="14dp"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+
+                    </LinearLayout>
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="RP\nRate"
+                            android:minWidth="50dp"
+                            android:textSize="14dp"
+                            android:layout_weight="1"
+                            android:textColor="@color/mulSettingContent"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/rp_rate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="0.0"
+                            android:textSize="14dp"
+                            android:gravity="center"
+                            android:textColor="@color/mulSettingText"
+                            android:imeOptions="flagNoExtractUi"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="5dp"
+                            android:layout_height="match_parent" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Yaw\nRate"
+                            android:textSize="14dp"
+                            android:minWidth="50dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/yaw_rate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="0.0"
+                            android:imeOptions="flagNoExtractUi"
+                            android:gravity="center"
+                            android:textSize="14dp"
+                            android:textColor="@color/mulSettingText"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <android.support.v4.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="13dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Throttle Setting"
+                    android:gravity="center"
+                    android:textSize="17dp"
+                    android:textColor="@color/mainBasicColor"
+                    android:background="@color/DrawerColor"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="MIN"
+                            android:textSize="14dp"
+                            android:minWidth="50dp"
+                            android:layout_weight="1"
+                            android:textColor="@color/mulSettingContent"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/throttle_min"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:textColor="@color/mulSettingText"
+                            android:text="1050"
+                            android:gravity="center"
+                            android:textSize="14dp"
+                            android:ems="10"
+                            android:imeOptions="flagNoExtractUi"
+                            android:inputType="number" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="MAX"
+                            android:textSize="14dp"
+                            android:minWidth="50dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/throttle_max"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="2000"
+                            android:focusable="false"
+                            android:textColor="@color/mainTextColor"
+                            android:gravity="center"
+                            android:textSize="14dp"
+                            android:ems="10"
+                            android:inputType="number" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Failsafe"
+                            android:textSize="14dp"
+                            android:minWidth="50dp"
+                            android:textColor="@color/mulSettingContent"
+                            android:layout_weight="1"
+                            android:gravity="center" />
+
+                        <android.support.v4.widget.Space
+                            android:layout_width="3dp"
+                            android:layout_height="match_parent" />
+
+                        <EditText
+                            android:id="@+id/failsafe"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="0"
+                            android:textColor="@color/mulSettingText"
+                            android:gravity="center"
+                            android:textSize="14dp"
+                            android:imeOptions="flagNoExtractUi"
+                            android:ems="10"
+                            android:inputType="numberDecimal" />
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+                <android.support.v4.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Battery"
+                    android:gravity="center"
+                    android:textSize="17dp"
+                    android:textColor="@color/mainBasicColor"
+                    android:background="@color/DrawerColor"/>
+
+                <android.support.v4.widget.Space
+                    android:layout_width="match_parent"
+                    android:layout_height="7dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Scale"
+                        android:textSize="14dp"
+                        android:minWidth="50dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/mulSettingContent"
+                        android:gravity="center" />
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent" />
+
+                    <EditText
+                        android:id="@+id/vbat_scale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/mulSettingText"
+                        android:text="0"
+                        android:imeOptions="flagNoExtractUi"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:ems="10"
+                        android:inputType="number" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="현재 전압"
+                        android:textSize="14dp"
+                        android:textColor="@color/mainTextColor"
+                        android:minWidth="50dp"
+                        android:layout_weight="1"
+                        android:gravity="center" />
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent" />
+
+                    <EditText
+                        android:id="@+id/current_vbat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/mainTextColor"
+                        android:text="0.0"
+                        android:focusable="false"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:ems="10"
+                        android:inputType="numberDecimal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1단계 경고"
+                        android:textSize="14dp"
+                        android:textColor="@color/mulSettingContent"
+                        android:minWidth="50dp"
+                        android:layout_weight="1"
+
+                        android:gravity="center" />
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent" />
+
+                    <EditText
+                        android:id="@+id/vbat_warning1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="0.0"
+                        android:imeOptions="flagNoExtractUi"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:ems="10"
+                        android:inputType="numberDecimal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2단계 경고"
+                        android:textSize="14dp"
+                        android:minWidth="50dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/mulSettingContent"
+                        android:gravity="center" />
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent" />
+
+                    <EditText
+                        android:id="@+id/vbat_warning2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="0.0"
+                        android:gravity="center"
+                        android:textColor="@color/mulSettingText"
+                        android:textSize="14dp"
+                        android:imeOptions="flagNoExtractUi"
+                        android:ems="10"
+                        android:inputType="numberDecimal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="3단계경고"
+                        android:textSize="14dp"
+                        android:minWidth="50dp"
+                        android:textColor="@color/mulSettingContent"
+                        android:layout_weight="1"
+                        android:gravity="center" />
+
+                    <android.support.v4.widget.Space
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent" />
+
+                    <EditText
+                        android:id="@+id/vbat_warning3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="@color/mulSettingText"
+                        android:text="0.0"
+                        android:gravity="center"
+                        android:textSize="14dp"
+                        android:ems="10"
+                        android:imeOptions="flagNoExtractUi"
+                        android:inputType="numberDecimal" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

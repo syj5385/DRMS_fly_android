@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="splashBack">#6B9900</color>
+    <color name="splashText">#FFE400</color>
+    <color name="splash_logo">#FF5E00</color>
+
+    <color name="DrawerColor">#afafaf</color>
+    <color name="mainBasicColor">#efefef</color>
+    <color name="dronemain_Color">#747474</color>
+    <color name="dronemain_Color_clicked">#5f5f5f</color>
+    <color name="mainTopic_1">#ff5200</color>
+    <color name="mainTopic_2">#ffe400</color>
+    <color name="mainTextColor">#DB3A00</color>
+    <color name="rollColor">#2f9d27</color>
+    <color name="pitchColor">#5f00ff</color>
+    <color name="vbatColor">#1ffb16</color>
+
+    <color name="redColor">#f15a24</color>
+    <color name="progressColor">#ff5200</color>
+
+    <color name="joystickSettingBack">#4a747474</color>
+    <color name="joystickSettingSelected">#7aefefef</color>
+
+    <color name="setting1RectLine">#000000</color>
+    <color name="setting1Rect">#f2e634</color>
+
+    <color name="nameColor">#98cfe2</color>
+    <color name="flightColor">#32a2d3</color>
+    <color name="btColor">#bda4ce</color>
+    <color name="btDisconnected">#e9443c</color>
+    <color name="contDis">#e9443c</color>
+    <color name="contCon">#a7ce54</color>
+
+    <color name="newSplashBack">#d5804e</color>
+
+    <color name="mulSettingTopic">#ed9027</color>
+    <color name="mulSettingContent">#a7ce54</color>
+    <color name="mulSettingText">#cccccc</color>
+
+</resources>

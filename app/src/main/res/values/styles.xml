@@ -1,0 +1,59 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.AppCompat.SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:background">@color/newSplashBack</item>
+        <item name="android:alertDialogStyle">@style/Base.AlertDialog.AppCompat.Light</item>
+    </style>
+
+    <style name="Theme.AppCompat.DroneMainTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:background">@color/dronemain_Color</item>
+
+    </style>
+
+    <style name="Theme.AppCompat.JoystickTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:background">
+            @drawable/cont_back</item>
+
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:alertDialogStyle">@style/Theme.AppCompat</item>
+    </style>
+
+    <style name="Theme.AppCompat.SettingActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:background">#4a747474</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:alertDialogStyle">@style/Theme.AppCompat</item>
+
+    </style>
+
+    <style name="Theme.AppCompat.Translucent2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:background">#4a747474</item>
+    </style>
+
+    <style name="dialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">@color/mainTopic_2</item>
+        <item name="android:editTextColor">#ff0000</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
